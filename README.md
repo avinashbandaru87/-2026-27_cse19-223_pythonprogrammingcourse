@@ -1,1 +1,3 @@
-# -2026-27_cse19-223_pythonprogrammingcourse
+NAME:B.AVINASH 
+ROLL NUMBER : 26000223 
+SECTION : CSE-4(CORE)
